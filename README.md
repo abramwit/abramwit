@@ -2,7 +2,7 @@
 
 My name is Aiden, and I'm an UW-Madison trained computer scientist interested in algorithm design, cybersecurity, and quantum computing.
 
-- 🔭 I’m currently working on partition tolerant routing
+- 🔭 I’m currently working on partition tolerant routing.
 - 🌱 I’m currently learning more about databases through Meta's intro to databases.
 - 💬 Ask me about basketball, tennis, boardgames and book recommendations!
 
