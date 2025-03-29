@@ -1,16 +1,10 @@
-## Hi there 👋, my name is Aiden Bramwit
+## Hi there 👋
 
-### 🙋 About me
+My name is Aiden, and I'm an UW-Madison trained computer scientist interested in algorithm design, cybersecurity, and quantum computing.
 
-I'm from the USA, currently living in the Eastern Standard Time Zone. I currently work as Software Engineer at ASML. I graduated from the University of Wisconsin-Madison with a degree in Computer Science. While at UW-Madison I was also a peer lead for the Wisconsin Emerging Scholars CS course. Outside of work I can be found playing basketball, playing tennis, reading, workingout and enjoying boardgames with friends.
-
-### 🔭 I’m currently working on
-
-I'm currenlty working to make my existing Link State Routing project partition tolerant.
-
-### 🌱 I’m currently learning
-
-I'm currently improving my system design skills, taking Meta's introduction to Databases course and learning to be a better gardener.
+- 🔭 I’m currently working on partition tolerant routing
+- 🌱 I’m currently learning more about databases through Meta's intro to databases.
+- 💬 Ask me about basketball, tennis, boardgames and book recommendations!
 
 <!--
 **abramwit/abramwit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
