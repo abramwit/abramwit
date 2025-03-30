@@ -4,7 +4,7 @@ My name is Aiden, and I'm an UW-Madison educated computer scientist interested i
 
 - 🔭 I’m currently working on partition tolerant routing.
 - 🌱 I’m currently learning more about databases through Meta's intro to databases.
-- 💬 Ask me about basketball, tennis, boardgames and book recommendations!
+- 💬 Ask me about basketball, tennis, boardgames, gardening and book recommendations!
 
 <!--
 **abramwit/abramwit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
